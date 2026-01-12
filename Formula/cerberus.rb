@@ -3,8 +3,8 @@ class Cerberus < Formula
 
   desc "AST-based code exploration with session memory for AI agents"
   homepage "https://github.com/proxikal/Cerberus"
-  url "https://github.com/proxikal/Cerberus/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "054ec2399e35bbcc50d003dbb76eb2993541094b0d4e8cb33d2e59704b63822b"
+  url "https://github.com/proxikal/Cerberus/archive/refs/tags/v1.0.1.tar.gz"
+  sha256 "f08adca42c34485ff05c97f1f6b1c2c16d87b16ed1accb9cc4f156097d78046c"
   license "MIT"
   head "https://github.com/proxikal/Cerberus.git", branch: "develop"
 
